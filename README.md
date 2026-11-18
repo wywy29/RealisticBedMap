@@ -2,8 +2,6 @@
 
 *Adding realistic small-scale roughness to Antarctic bed maps with a neural network*
 
-William Yuan · GLY4930, Department of Geological Sciences, University of Florida
-
 > **Status: work in progress (November 2026).** The 250 m and 10 m beds are made and checked against radar.
 
 ![DEMOGORGN vs this study, 3D](figures/demogorgn_vs_superresolved_3d.png)
