@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+xarray
+rioxarray
+rasterio
+netCDF4
+pyproj
+matplotlib
+cartopy
+zarr
+icechunk
+torch
+torchvision

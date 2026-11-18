@@ -1,0 +1,21 @@
+name: realisticbedmap
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - xarray
+  - rioxarray
+  - rasterio
+  - netcdf4
+  - pyproj
+  - matplotlib
+  - cartopy
+  - zarr
+  - pip
+  - pip:
+      - icechunk
+      - torch
+      - torchvision
